@@ -1,0 +1,2 @@
+serviceurl,http://statgamesstaging.tietronix.com/statisticallygrounded/addrow.php
+webreporterurl,http://statgamesstaging.tietronix.com/statisticallygrounded/webreporter.php
